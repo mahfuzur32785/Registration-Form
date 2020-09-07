@@ -1,0 +1,51 @@
+body{
+	background: rgba(225, 225, 225, 0.5);
+    text-align: center;
+}
+.form-box{
+	width: 50%;
+	margin: 30px auto;
+	background: white;
+	padding: 50px 20px;
+	text-align: center;
+}
+form .name{
+	width: 40%;
+	padding: 5px;
+	margin-top: 20px;
+	margin-left: 30px;
+}
+form .email{
+	width: 40%;
+	padding: 5px;
+	margin-top: 20px;
+	margin-right: 0px;
+}
+form .pass{
+	width: 40%;
+    padding: 5px;
+    margin-top: 20px;
+    margin-left: 33px;
+}
+form .passs{
+	width: 40%;
+    padding: 5px;
+    margin-top: 20px;
+    margin-right: 28px;
+}
+form .checkbox{
+	margin-top: 25px;
+	margin-left: 123px;
+}
+form .input{
+	margin-top: 25px;
+	margin-left: -95px;
+	padding: 5px 20px;
+	color: white;
+	background: #3EA99F;
+	border-radius: 3px;
+}
+form .link{
+	text-decoration: none;
+	color: #3EA99F;
+}
